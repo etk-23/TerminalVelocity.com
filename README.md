@@ -89,6 +89,7 @@ TerminalVelocity.com/Final updates/
 ---
 
 ### 🎮 Gameplay Overview
+
 - Start with Level 1 (ls).
 - Use the terminal to execute Linux commands as per the instructions.
 - Unlock the next level using the "Next Level" button after completing the current one.
@@ -97,6 +98,22 @@ TerminalVelocity.com/Final updates/
 ---
 
 ### 🤝 Contributing
+
+Thanks to all the amazing people who have contributed to this project:
+
+<a href="https://github.com/etk-23">
+  <img src="https://github.com/etk-23.png" width="60px" style="border-radius:50%" alt="etk-23"/>
+</a>
+<a href="https://github.com/Eesh24K">
+  <img src="https://github.com/Eesh24K.png" width="60px" style="border-radius:50%" alt="Eesh24K"/>
+</a>
+<a href="https://github.com/Giga4byte">
+  <img src="https://github.com/Giga4byte.png" width="60px" style="border-radius:50%" alt="Giga4byte"/>
+</a>
+<a href="https://github.com/MAYSASAMEER">
+  <img src="https://github.com/MAYSASAMEER.png" width="60px" style="border-radius:50%" alt="MAYSASAMEER"/>
+</a>
+
 Contributions are welcome!
 - Fork the repository
 - Create a new branch
@@ -105,6 +122,8 @@ Contributions are welcome!
 ---
 
 ### 📜 License
+
 This project is licensed under the MIT License.
-See the LICENSE file for more details.
+See the [LICENSE](LICENSE.md) file for more details.
+
 
